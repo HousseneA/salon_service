@@ -1,0 +1,11 @@
+Voici les etapes:
+-installation du node
+-installation de l'axios
+-installation du bcrypt
+-installation react-router-dom
+
+-installation du Microsoft.AspNet.Cors
+-installation Microsoft.AspNet.WebApi.Client
+-installation Microsoft.AspNet.WebApi.Core
+-installation Microsoft.EntityFrameworkCore.Tools
+-installation PostgreSql.Data.EntityFrameworkCore
